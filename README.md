@@ -55,6 +55,6 @@ If you use `ls -a` on this directory, you should the following hidden files:
   stored in the `git` repository; many are generally files produced
   by compiling the code.
 
-  See <https://ucsb-cs156.github.io/topics/git_gitignore/> for more
+  See [https://ucsb-cs156.github.io/topics/git_gitignore/](https://ucsb-cs156.github.io/topics/git/git_gitignore.html)
   information.
 
